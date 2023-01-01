@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hello! I'm Jesse Uzoma!</h1>
+<h1 align="center">👋 Hello! I'm Michael Chidiebere!</h1>
 <h3 align="center">I'm open to new job opportunities and challenges</h3>
 
-[![Github views](https://komarev.com/ghpvc/?username=HeDevedUp&style=flat-square&color=green)](https://github.com/shelcia)<div align="left" width="50%">
+[![Github views](https://komarev.com/ghpvc/?username=mikkybere&style=flat-square&color=green)](https://github.com/mikkybere)<div align="left" width="50%">
   <h2> About me </h2>
   
   I'm a pragmatic front-end Web craftman  with a passion for technology and software engineering looking to work with great people and solve challenging problems. Ever eager to learn and work outside of my comfort zone. 
@@ -14,9 +14,9 @@
 <div>
   
 ### Contact me:
-  <a href="mailto:uzomaesse@gmail.com?subject=Want%20to%20contact" target="_blank"><img align="left" alt="uzomaesse@gmail.com" width="22px" src="https://github.com/twbs/icons/blob/main/icons/envelope-fill.svg" /></a>
-  <a href="https://www.linkedin.com/in/jesseuzoma/" target="_blank"><img align="left" alt="jesse uzoma LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a/>
-    <a href="https://twitter.com/devtochi" target="_blank"><img align="left" alt="dev tochi Twitter Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /><a/>
+  <a href="mailto:chidiebere2070@gmail.com?subject=Want%20to%20contact" target="_blank"><img align="left" alt="@gmail.com" width="22px" src="https://github.com/twbs/icons/blob/main/icons/envelope-fill.svg" /></a>
+  <a href="https://www.linkedin.com/in/michael-onwurah-6b6a11152/" target="_blank"><img align="left" alt="jesse uzoma LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a/>
+    <a href="https://twitter.com/mikkybere" target="_blank"><img align="left" alt="dev mikkybere Twitter Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /><a/>
 <br />
   
 ---
@@ -49,11 +49,11 @@
   <br>
 
  <div align="center">
-   <img height="auto" width="91%" src="https://github-readme-stats.vercel.app/api?username=HeDevedUp&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="uzom jesse Github Stats" />
+   <img height="auto" width="91%" src="https://github-readme-stats.vercel.app/api?username=mikkybere&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="Michael Chidiebere Github Stats" />
 </div>
 <div align="center">  
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeDevedUp&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" alt="Jesse Uzoma Most Used Languages" />
-  <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=HeDevedUp&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Jesse Uzoma Github Current Streak" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikkybere&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" alt="michael chidiebere Most Used Languages" />
+  <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=mikkybere&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Michael Chidiebere Github Current Streak" /> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FADD92&height=120&section=footer"/>
